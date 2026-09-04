@@ -1,0 +1,26 @@
+{
+  "version": "POR_V1",
+  "auditId": 20260101000000,
+  "period": "2026-01",
+  "snapshotTime": 1767196800000,
+  "recordId": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "balances": {
+    "BTC": "0.10000000",
+    "ETH": "-0.20000000",
+    "USDT": "100.00000000",
+    "USDC": "0.00000000"
+  },
+  "leafPayload": "POR_V1|auditId=20260101000000|recordId=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa|BTC=0.10000000|ETH=-0.20000000|USDT=100.00000000|USDC=0.00000000",
+  "leafHash": "1b4af8c8e13d6c702f87c41435513620154891bfad3fa2069428b435320e2006",
+  "rootHash": "add3965d6c7bca2a54dd23f6c882322292476f55def700589ae7dcc706bdbecb",
+  "proof": [
+    {
+      "position": "LEFT",
+      "hash": "2876478fabe0808608dee8a31010c7632bffc6b281f764ebe9cfe146b2d3305f"
+    },
+    {
+      "position": "RIGHT",
+      "hash": "f159cddf143f05bcc8bbc6e2c45952b82d84abba7265b9fb90ead033a48d801d"
+    }
+  ]
+}
